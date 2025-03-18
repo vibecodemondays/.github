@@ -27,7 +27,7 @@ To ensure a welcoming and inclusive environment, we have a Code of Conduct that 
 - **Be responsible:** Use AI tools ethically and responsibly.
 - **Be secure:** Prioritize security in all coding practices.
 
-For the full Code of Conduct, please see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+For the full Code of Conduct, please see [CODE_OF_CONDUCT.md](https://github.com/vibecodebar/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## How to Get Involved
 
